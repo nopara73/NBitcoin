@@ -348,7 +348,8 @@ namespace NBitcoin
 		P2PK,
 		P2WPKH,
 		P2WSH,
-		MultiSig
+		MultiSig,
+		Unknown
 	}
 
 	public class ScriptSigs
